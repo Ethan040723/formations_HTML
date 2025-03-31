@@ -1,0 +1,183 @@
+<index.html>
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <meta cheset="UTF-8">
+        <Title>Test_2</Title>
+        <Link rel="stylesheet" href="css" >
+        <script src="java.js"></script>
+        <header>
+        </header>
+    </head>
+    <body>
+        <main>
+            <div class="A">
+                <div class="black">a1
+                    <button id="piona1" onclick="change('piona1')"></button>
+                </div>
+                <div class="white">a2</div>
+                <div class="black">a3
+                    <button id="piona2" onclick="change('piona2')"></button>
+                </div>
+                <div class="white">a4</div>
+                <div class="black">a5
+                    <button id="piona3" onclick="change('piona3')"></button>                
+                </div>
+                <div class="white">a6</div>
+                <div class="black">a7
+                    <button id="piona4" onclick="change('piona4')"></button>
+                </div>
+                <div class="white">a8</div>
+
+            </div>
+            <div class="B">
+                <div class="white">b1</div>
+                <div class="black">b2
+                    <button id="pionb1" onclick="change('pionb1')"></button>
+                </div>
+                <div class="white">b3</div>
+                <div class="black">b4
+                    <button id="pionb2" onclick="change('pionb2')"></button>
+                </div>
+                <div class="white">b5</div>
+                <div class="black">b6
+                    <button id="pionb3" onclick="change('pionb3')"></button>
+                </div>
+                <div class="white">b7</div>
+                <div class="black">b8
+                    <button id="pionb4" onclick="change('pionb4')"></button>
+                </div>
+
+            </div>
+            <div class="C">
+                <div class="black">c1
+                    <button id="pionc1" onclick="change('pionc1')"></button>
+                </div>
+                <div class="white">c2</div>
+                <div class="black">c3
+                    <button id="pionc2" onclick="change('pionc2')"></button>               
+                </div>
+                <div class="white">c4</div>
+                <div class="black">c5
+                    <button id="pionc3" onclick="change('pionc3')"></button>               
+                </div>
+                <div class="white">c6</div>
+                <div class="black">c7
+                    <button id="pionc4" onclick="change('pionc4')"></button>
+                </div>
+                <div class="white">c8</div>
+
+            </div>
+            <div class="D">
+                <div class="white">d1</div>
+                <div class="black">d2 
+                    <button id="piond1" onclick="change('piond1')"></button>              
+                </div>
+                <div class="white">d3</div>
+                <div class="black">d4
+                    <button id="piond2" onclick="change('piond2')"></button>
+                </div>
+                <div class="white">d5</div>
+                <div class="black">d6
+                    <button id="piond3" onclick="change('piond3')"></button>
+                </div>
+                <div class="white">d7</div>
+                <div class="black">d8
+                    <button id="piond4" onclick="change('piond4')"></button>
+                </div>
+
+            </div>
+            <div class="E">
+                <div class="black">e1
+                    <button id="pione1" onclick="change('pione1')"></button>
+                </div>
+                <div class="white">e2</div>
+                <div class="black">e3
+                    <button id="pione2" onclick="change('pione2')"></button>
+                </div>
+                <div class="white">e4</div>
+                <div class="black">e5
+                    <button id="pione3" onclick="change('pione3')"></button>
+                </div>
+                <div class="white">e6</div>
+                <div class="black">e7
+                    <button id="pione4" onclick="change('pione4')"></button>
+                </div>
+                <div class="white">e8</div>
+
+            </div>
+            <div class="F">
+                <div class="white">f1</div>
+                <div class="black">f2
+                    <button id="pionf1" onclick="change('pionf1')"></button>
+                </div>
+                <div class="white">f3</div>
+                <div class="black">f4
+                    <button id="pionf2" onclick="change('pionf2')"></button>
+                </div>
+                <div class="white">f5</div>
+                <div class="black">f6
+                    <button id="pionf3" onclick="change('pionf3')"></button>
+                </div>
+                <div class="white">f7</div>
+                <div class="black">f8
+                    <button id="pionf4" onclick="change('pionf4')"></button>
+                </div>
+
+            </div>
+            <div class="G">
+                <div class="black">g1
+                    <button id="piong1" onclick="change('piong1')"></button>
+                </div>
+                <div class="white">g2</div>
+                <div class="black">g3
+                    <button id="piong2" onclick="change('piong2')"></button>
+                </div>
+                <div class="white">g4</div>
+                <div class="black">g5
+                    <button id="piong3" onclick="change('piong3')"></button>
+                </div>
+                <div class="white">g6</div>
+                <div class="black">g7
+                    <button id="piong4" onclick="change('piong4')"></button> 
+                </div>
+                <div class="white">g8</div>
+
+            </div>
+            <div class="H">
+                <div class="white">h1</div>
+                <div class="black">h2
+                    <button id="pionh1" onclick="change('pionh1')"></button>
+                </div>
+                <div class="white">h3</div>
+                <div class="black">h4
+                    <button id="pionh2" onclick="change('pionh2')"></button>
+                </div>
+                <div class="white">h5</div>
+                <div class="black">h6
+                    <button id="pionh3" onclick="change('pionh3')"></button>  
+                </div>
+                <div class="white">h7</div>
+                <div class="black">h8
+                    <button id="pionh4" onclick="change('pionh4')"></button>
+                </div>
+
+            </div>
+            
+        </main>
+        <div class="div2">
+            <h1>Le Jeu De dame </h1>
+
+            <p>Ce est un jeu créer au XVIIIe</p>
+            
+            <p>le but du jeu est simpple détruire tout les pions de l'adversaire </p>
+
+            <p>Pour avancer rien de plus simple c'est d'une case vers l'avant mais seulement en diagonale 
+            Pour détruire un pion adverse il faut passer par dessus l'dversaire et attérir derrière lui toujours diagonelement on peut détruire plusieurs pions 
+            Arriver au bout du damier un pion peut devnir une dame et peut se deplace vers l'avant ou l'arrière et de deux cases </p>
+        </div>
+    </body>
+    <footer>
+
+    </footer>
+</html>
